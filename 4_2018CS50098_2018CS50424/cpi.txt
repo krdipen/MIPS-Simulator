@@ -1,0 +1,13 @@
+add 4
+sub 4
+sll 4
+srl 4
+lw 6
+sw 6
+jr 5
+j 5
+jal 5
+beq 5
+bne 5
+blez 5
+bgtz 5
